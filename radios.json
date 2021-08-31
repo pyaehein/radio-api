@@ -20,6 +20,20 @@
       "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
       "url": "https://voa-83.akacast.akamaistream.net/7/532/314268/v1/ibb.akacast.akamaistream.net/voa-83",
       "embedded": false
-    }
+    },
+    {
+      "id": 4,
+      "name": "BBC Burmese",
+      "image": "https://www.jodiecook.com/wp-content/uploads/2020/05/BBC-news-square-logo.png",
+      "url": "https://tunein.com/embed/player/s95248",
+      "embedded": true
+    },
+    {
+      "id": 5,
+      "name": "VOA Burmese",
+      "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
+      "url": "https://tunein.com/embed/player/s25728",
+      "embedded": true
+    },
   ]
 }
