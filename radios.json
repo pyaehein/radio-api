@@ -23,16 +23,23 @@
     },
     {
       "id": 4,
-      "name": "BBC Burmese",
+      "name": "BBC Burmese Webview",
       "image": "https://www.jodiecook.com/wp-content/uploads/2020/05/BBC-news-square-logo.png",
       "url": "https://tunein.com/embed/player/s95248",
       "embedded": true
     },
     {
       "id": 5,
-      "name": "VOA Burmese",
+      "name": "VOA Burmese Webview",
       "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
       "url": "https://tunein.com/embed/player/s25728",
+      "embedded": true
+    },
+    {
+      "id": 6,
+      "name": "BBC Burmese Mp3",
+      "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
       "embedded": true
     }
   ]
