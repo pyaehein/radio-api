@@ -40,7 +40,7 @@
       "name": "BBC Burmese Mp3",
       "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
       "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-      "embedded": true
+      "embedded": false
     }
   ]
 }
