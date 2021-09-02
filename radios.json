@@ -5,28 +5,97 @@
       "name": "Public Voice Radio NUG",
       "image": "https://cdn-profiles.tunein.com/p1449374/images/logod.png",
       "url": "https://tunein.com/embed/player/p1449374",
-      "embedded": true
+      "embedded": true,
+      "schedule": [
+        {
+          "title": "8:00am",
+          "subtitle": "59550 Mhz Sw 49"
+        }
+      ]
     },
     {
       "id": 2,
       "name": "BBC Burmese",
       "image": "https://www.jodiecook.com/wp-content/uploads/2020/05/BBC-news-square-logo.png",
       "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_burmese_radio",
-      "embedded": false
+      "embedded": false,
+      "schedule": [
+        {
+          "title": "",
+          "subtitle": "FM 94.6 Mhz, 99.0Mhz, 101.7Mhz"
+        }
+      ]
     },
     {
       "id": 3,
       "name": "VOA Burmese",
       "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
       "url": "https://voa-83.akacast.akamaistream.net/7/532/314268/v1/ibb.akacast.akamaistream.net/voa-83",
-      "embedded": false
+      "embedded": false,
+      "schedule": [
+        {
+          "title": "6:00am - 7:00am",
+          "subtitle": "K9380 M32 K7480 M40 K6150 M48"
+        },
+        {
+          "title": "8:00am - 9:00am",
+          "subtitle": "K15110 M20 K11820 M25 K9335 M32"
+        },
+        {
+          "title": "9:00pm - 10:00pm",
+          "subtitle": "K15450 M19 K11870 M25 K9335 M32"
+        },
+        {
+          "title": "10:00pm - 11:00pm",
+          "subtitle": "K11870 M25 K9335 M32"
+        }
+      ]
     },
     {
       "id": 4,
       "name": "Democratic Voice Of Burma",
       "image": "https://static.wikia.nocookie.net/logopedia/images/7/70/DVB_myanmar.png",
       "url": "https://www.dailymotion.com/embed/video/x82irv5",
-      "embedded": true
+      "embedded": true,
+      "schedule": [
+        {
+          "title": "6:00am - 7:00am",
+          "subtitle": "59550 Mhz Sw 49"
+        },
+        {
+          "title": "7:30am - 10:30am",
+          "subtitle": "11880 Mhz Sw 25"
+        },
+        {
+          "title": "9:00pm",
+          "subtitle": "17495 Mhz Sw 16, 9415 Mhz Sw 31"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Radio Free Asia",
+      "image": "https://www.rfa.org/++plone++rfa-resources/img/rfa-logo-400.jpg",
+      "url": "https://www.rfa.org/burmese/audio",
+      "embedded": true,
+      "schedule": [
+        {
+          "title": "7:00am - 8:00am",
+          "subtitle": "7540 Mhz Sw 40, 7510 Mhz Sw 40, 9510 Mhz Sw 32"
+        },
+        {
+          "title": "7:00pm - 8:00pm",
+          "subtitle": "9350 Mhz Sw 32, 11795 Mhz Sw 25, 15120 Mhz Sw 20"
+        },
+        {
+          "title": "8:00pm - 9:00pm",
+          "subtitle": "9955 Mhz Sw 30, 11795 Mhz Sw 25, 12055 Mhz Sw 25, 13740 Mhz 22, 9380 Mhz Sw 32"
+        },
+        {
+          "title": "8:30pm - 9:00pm",
+          "subtitle": "11795 Mhz Sw 25, 12055 Mhz Sw 25"
+        }
+      ]
     }
   ]
 }
