@@ -6,6 +6,7 @@
       "image": "https://cdn-profiles.tunein.com/p1449374/images/logod.png",
       "url": "https://tunein.com/embed/player/p1449374",
       "embedded": true,
+      "iframe": false,
       "schedule": [
         {
           "title": "8:00am",
@@ -19,6 +20,7 @@
       "image": "https://www.jodiecook.com/wp-content/uploads/2020/05/BBC-news-square-logo.png",
       "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_burmese_radio",
       "embedded": false,
+      "iframe": false,
       "schedule": [
         {
           "title": "",
@@ -32,6 +34,7 @@
       "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
       "url": "https://voa-83.akacast.akamaistream.net/7/532/314268/v1/ibb.akacast.akamaistream.net/voa-83",
       "embedded": false,
+      "iframe": false,
       "schedule": [
         {
           "title": "6:00am - 7:00am",
@@ -57,6 +60,7 @@
       "image": "https://static.wikia.nocookie.net/logopedia/images/7/70/DVB_myanmar.png",
       "url": "https://www.dailymotion.com/embed/video/x82irv5",
       "embedded": true,
+      "iframe": true,
       "schedule": [
         {
           "title": "6:00am - 7:00am",
@@ -78,6 +82,7 @@
       "image": "https://www.rfa.org/++plone++rfa-resources/img/rfa-logo-400.jpg",
       "url": "https://www.rfa.org/burmese/audio",
       "embedded": true,
+      "iframe": false,
       "schedule": [
         {
           "title": "7:00am - 8:00am",
