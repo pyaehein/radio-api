@@ -20,6 +20,13 @@
       "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
       "url": "https://voa-83.akacast.akamaistream.net/7/532/314268/v1/ibb.akacast.akamaistream.net/voa-83",
       "embedded": false
+    },
+    {
+      "id": 4,
+      "name": "Democratic Voice Of Burma",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/7/70/DVB_myanmar.png",
+      "url": "https://www.dailymotion.com/embed/video/x82irv5",
+      "embedded": true
     }
   ]
 }
