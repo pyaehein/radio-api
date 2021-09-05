@@ -31,7 +31,7 @@
     {
       "id": 3,
       "name": "VOA Burmese",
-      "image": "https://learningenglish.voanews.com/Content/responsive/VOA/img/top_logo_news.png",
+      "image": "https://raw.githubusercontent.com/pyaehein/radio-api/main/voa.png",
       "url": "https://voa-83.akacast.akamaistream.net/7/532/314268/v1/ibb.akacast.akamaistream.net/voa-83",
       "embedded": false,
       "iframe": false,
