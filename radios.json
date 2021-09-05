@@ -10,7 +10,11 @@
       "schedule": [
         {
           "title": "8:00am",
-          "subtitle": "59550 Mhz Sw 49"
+          "subtitle": "16 Meter Band, 17.71 MHz"
+        },
+        {
+          "title": "8:00pm",
+          "subtitle": "25 Meter Band, 12 MHz"
         }
       ]
     },
@@ -24,7 +28,7 @@
       "schedule": [
         {
           "title": "",
-          "subtitle": "FM 94.6 Mhz, 99.0Mhz, 101.7Mhz"
+          "subtitle": "FM 94.6 Mhz, 99.0Mhz, 101.7 Mhz"
         }
       ]
     },
