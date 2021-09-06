@@ -105,6 +105,15 @@
           "subtitle": "11795 Mhz Sw 25, 12055 Mhz Sw 25"
         }
       ]
+    },
+    {
+      "id": 6,
+      "name": "Mizzima 108FM",
+      "image": "https://raw.githubusercontent.com/pyaehein/radio-api/main/mizzima.jpg",
+      "url": "https://anchor.fm/mizzima108fm/embed",
+      "embedded": true,
+      "iframe": false,
+      "schedule": []
     }
   ]
 }
