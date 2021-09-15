@@ -141,6 +141,15 @@
       "embedded": false,
       "iframe": false,
       "schedule": []
+    },
+    {
+      "id": 10,
+      "name": "100Hitz (International)",
+      "image": "https://raw.githubusercontent.com/springminer/radio-api/main/100hitz.jpg",
+      "url": "https://pureplay.cdnstream1.com/6027_64.aac/playlist.m3u8",
+      "embedded": false,
+      "iframe": false,
+      "schedule": []
     }
   ]
 }
