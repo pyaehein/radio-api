@@ -132,6 +132,15 @@
       "embedded": false,
       "iframe": false,
       "schedule": []
+    },
+    {
+      "id": 9,
+      "name": "Absolute Mix Radio (English)",
+      "image": "https://raw.githubusercontent.com/springminer/radio-api/main/absolute_mix.jpg",
+      "url": "https://ais-sa5.cdnstream1.com/b86392_128mp3",
+      "embedded": false,
+      "iframe": false,
+      "schedule": []
     }
   ]
 }
