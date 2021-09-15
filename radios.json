@@ -123,6 +123,15 @@
       "embedded": false,
       "iframe": false,
       "schedule": []
+    },
+    {
+      "id": 8,
+      "name": "Kpopway (Kpop)",
+      "image": "https://kpopway.com/wp-content/uploads/2020/12/cropped-logo-1.png",
+      "url": "https://streamer.radio.co/s06b196587/listen",
+      "embedded": false,
+      "iframe": false,
+      "schedule": []
     }
   ]
 }
