@@ -114,6 +114,15 @@
       "embedded": true,
       "iframe": false,
       "schedule": []
+    },
+    {
+      "id": 7,
+      "name": "Big B Radio (Kpop)",
+      "image": "https://pbs.twimg.com/profile_images/1353170607014199297/0idTx8_5_400x400.jpg",
+      "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+      "embedded": false,
+      "iframe": false,
+      "schedule": []
     }
   ]
 }
